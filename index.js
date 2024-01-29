@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const logger = require('morgan');
+// const logger = require('morgan');
 const axios = require('axios')
 const cors = require('cors')
 require("dotenv").config();
